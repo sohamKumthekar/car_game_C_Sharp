@@ -1,0 +1,10 @@
+C:\Users\soham\OneDrive\Desktop\C Sha\car_racing_game\car_racing_game\bin\Debug\car_racing_game.exe.config
+C:\Users\soham\OneDrive\Desktop\C Sha\car_racing_game\car_racing_game\bin\Debug\car_racing_game.exe
+C:\Users\soham\OneDrive\Desktop\C Sha\car_racing_game\car_racing_game\bin\Debug\car_racing_game.pdb
+C:\Users\soham\OneDrive\Desktop\C Sha\car_racing_game\car_racing_game\obj\Debug\car_racing_game.csproj.AssemblyReference.cache
+C:\Users\soham\OneDrive\Desktop\C Sha\car_racing_game\car_racing_game\obj\Debug\car_racing_game.Form1.resources
+C:\Users\soham\OneDrive\Desktop\C Sha\car_racing_game\car_racing_game\obj\Debug\car_racing_game.Properties.Resources.resources
+C:\Users\soham\OneDrive\Desktop\C Sha\car_racing_game\car_racing_game\obj\Debug\car_racing_game.csproj.GenerateResource.cache
+C:\Users\soham\OneDrive\Desktop\C Sha\car_racing_game\car_racing_game\obj\Debug\car_racing_game.csproj.CoreCompileInputs.cache
+C:\Users\soham\OneDrive\Desktop\C Sha\car_racing_game\car_racing_game\obj\Debug\car_racing_game.exe
+C:\Users\soham\OneDrive\Desktop\C Sha\car_racing_game\car_racing_game\obj\Debug\car_racing_game.pdb
